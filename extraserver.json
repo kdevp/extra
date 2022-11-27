@@ -3,5 +3,10 @@
     "title": "Japan ၁၈ အပေါင်းများ",
     "thumbnail": "https://pics.r18.com/digital/video/waaa00077/waaa00077jp-7.jpg",
     "server": "https://github.com/kdevp/extra/raw/main/japaub.json"
-  }
+  },
+{
+"title":"Korea ၁၈ အပေါင်းများ",
+"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX7L8uBeJnu11CrTmC9BY_Q7z027jDbiV3kw&usqp=CAU",
+"server:"https://github.com/kdevp/extra/raw/main/korea.json"
+}
 ]
